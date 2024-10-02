@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/blessedchiidz/L1MobSite/static/css/main.8fa09260.css",
-    "main.js": "/blessedchiidz/L1MobSite/static/js/main.dfdcd232.js",
-    "index.html": "/blessedchiidz/L1MobSite/index.html",
-    "main.8fa09260.css.map": "/blessedchiidz/L1MobSite/static/css/main.8fa09260.css.map",
-    "main.dfdcd232.js.map": "/blessedchiidz/L1MobSite/static/js/main.dfdcd232.js.map"
+    "main.css": "/blessedchiidz/l1mobsite/static/css/main.8fa09260.css",
+    "main.js": "/blessedchiidz/l1mobsite/static/js/main.dfdcd232.js",
+    "index.html": "/blessedchiidz/l1mobsite/index.html",
+    "main.8fa09260.css.map": "/blessedchiidz/l1mobsite/static/css/main.8fa09260.css.map",
+    "main.dfdcd232.js.map": "/blessedchiidz/l1mobsite/static/js/main.dfdcd232.js.map"
   },
   "entrypoints": [
     "static/css/main.8fa09260.css",
